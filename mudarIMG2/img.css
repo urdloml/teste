@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+img {
+    max-height: 100px;
+    max-width: 100px;
+}
+
+#main-img {
+    max-height: 270px;
+    max-width: 270px;
+}
+
+ul li {
+    list-style: none;
+}

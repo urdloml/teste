@@ -1,0 +1,11 @@
+a {
+    font-size: 20px;
+}
+
+.certo {
+    color: rgb(19, 185, 19);
+}
+
+.errado {
+    color: red;
+}
